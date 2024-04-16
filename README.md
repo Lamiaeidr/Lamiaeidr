@@ -1,5 +1,5 @@
  About me
-🌱 I’ve completed an OpenClassrooms training program as Artificial Intelligence Engineer (July 2020 - December 2021), developed in partnership with Microsoft and Centrale Supelec. Details can be found here.
+🌱 I’ve completed a Jedha Bootcamp training program as a Data Analayst (January 2024, April 2024), a Qualiopi Certified Program. Details can be found here : https://en.jedha.co/formations/data-analysis-fullstack
 
 🛫 I keep on learning Data Science, Machine and Deep learning, Cloud computing, and deployment of algorithms into production.
 
